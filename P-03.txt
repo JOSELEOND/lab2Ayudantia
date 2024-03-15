@@ -1,0 +1,4 @@
+TypeScript ofrece un conjunto de herramientas y características que mejoran 
+la experiencia de desarrollo en comparación con JavaScript, especialmente en 
+términos de seguridad, escalabilidad y mantenibilidad del código. Sin embargo, 
+ambos lenguajes son compatibles y pueden trabajar juntos en un mismo proyecto.

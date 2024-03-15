@@ -1,0 +1,17 @@
+En TypeScript, al igual que en JavaScript, las comillas invertidas (`) 
+se utilizan para crear template strings, también conocidas como template literals.
+
+Interpolación de variables: Puedes insertar valores de variables dentro
+de un template string utilizando la sintaxis `${}`. 
+
+Multilínea: Los template strings permiten escribir texto en varias líneas 
+sin necesidad de concatenar cadenas o utilizar caracteres de escape.
+
+Expresiones dentro de `${}`: Dentro de `${}`, no solo puedes colocar variables, 
+sino también expresiones JavaScript válidas. Esto incluye llamadas a funciones, 
+operaciones aritméticas, llamadas a métodos de objetos, entre otros.
+
+las comillas invertidas en TypeScript (y en JavaScript) permiten la creación de
+ template strings, que son cadenas de texto con características como interpolación
+  de variables, multilínea y la capacidad de ejecutar expresiones dentro de `${}`. 
+  Esto hace que sea más fácil y legible trabajar con cadenas de texto largas y complejas en el código.
